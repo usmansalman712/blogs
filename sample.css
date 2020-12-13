@@ -1,0 +1,124 @@
+* {
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+}
+
+body {
+  font-family: Arial;
+  background: orange;
+}
+
+.header-name {
+  margin-top: 30px;
+  padding: 50px;
+  font-size: 40px;
+  text-align: center;
+  background: red;
+}
+
+.left-column {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  float: left;
+  width: 70%;
+  background: green;
+}
+
+.right-column {
+  margin-top: 15px;
+  margin-left: 10px;
+  margin-right: 20px;
+  float: right;
+  width: 27%;
+  background: yellow;
+}
+
+.tname {
+  padding: 5px;
+}
+
+.tdesp {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+}
+
+.t-img {
+  width: 80%;
+  padding-left: 20px;
+  padding-right: 500px;
+  padding-top: 5px;
+  padding-bottom: 10px;
+}
+
+.tpara {
+  margin: 5px;
+  background: #50C7C7;
+  padding-bottom: 5px;
+}
+
+.about-me {
+  background: #E8475A;
+}
+.r-img {
+  padding-left: 5px;
+  width: 40%;
+}
+
+.r-para {
+  padding-left: 5px;
+  padding-bottom: 15px;
+}
+
+.popular-post {
+  width: 100%;
+  background: #6986EF;
+}
+.popular-post h2 {
+  margin-top: 20px;
+}
+
+.r-img1 {
+  width: 50%;
+}
+
+.r-para1 {
+  font-size: 14px;
+}
+
+.r-1 {
+  margin-top: 10px;
+  padding-top: 10px;
+  padding-left: 15px;
+  margin-bottom: 5px;
+  background: #722D1D;
+}
+
+.r-2 {
+  margin-top: 10px;
+  padding-top: 10px;
+  padding-left: 15px;
+  margin-bottom: 5px;
+  background: #F29985;
+}
+
+.r-3 {
+  margin-top: 10px;
+  padding-top: 10px;
+  padding-left: 15px;
+  margin-bottom: 5px;
+  background: #59504E;
+}
+
+.follow-me {
+  margin-top: 20px;
+  background: #3F7F2A;
+}
+
+.s-accounts {
+  line-height: 25px;
+  margin-top: 10px;
+  padding: 10px;
+  background: #B5DBA8;
+}
